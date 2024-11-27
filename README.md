@@ -17,3 +17,5 @@ Clone the repository, change directories, and use NPM to install the dependencie
 
 The project can be viewed in the browser at
 - [http://localhost:3000/add](http://localhost:3000/add)
+
+![Screenshot 2024-11-27 172507](https://github.com/user-attachments/assets/603efc16-556f-47cc-b8f4-f07687b90395)
